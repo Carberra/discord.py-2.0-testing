@@ -1,0 +1,4 @@
+apscheduler
+git+https://github.com/Rapptz/discord.py
+git+https://github.com/redParrot17/discord-ext-fancy-help
+git+https://github.com/Rapptz/discord-ext-menus
